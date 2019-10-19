@@ -44,4 +44,5 @@ c = a ** b
 print "Hasil %d ** %d = %d" % (a,b,c)
 
 Hasilnya:
+
 ![hasil-program-operator-aritmatika](https://user-images.githubusercontent.com/56239989/67143772-089dfb00-f299-11e9-8bd7-3f6707cbfc81.png)
