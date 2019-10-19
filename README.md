@@ -13,33 +13,33 @@ Pemangkatan
 
 Mari kita coba dalam program:
 
-# file: operator_aritmatika.py
+# Langkah-Langkah
 
-# Ambil input untuk mengisi nilai
+#Ambil input untuk mengisi nilai
 a = input("Inputkan nilai a: ")
 b = input("Inputkan nilai b: ")
 
-# Menggunakan operator penjumlahan
+#Menggunakan operator penjumlahan
 c = a + b
 print "Hasil %d + %d = %d" % (a,b,c)
 
-# Operator Pengurangan
+#Operator Pengurangan
 c = a - b
 print "Hasil %d - %d = %d" % (a,b,c)
 
-# Operator Perkalian
+#Operator Perkalian
 c = a * b
 print "Hasil %d * %d = %d" % (a,b,c)
 
-# Operator Pembagian
+#Operator Pembagian
 c = a / b
 print "Hasil %d / %d = %d" % (a,b,c)
 
-# Operator Sisa Bagi
+#Operator Sisa Bagi
 c = a % b
 print "Hasil %d %% %d = %d" % (a,b,c)
 
-# Operator Pangkat
+#Operator Pangkat
 c = a ** b
 print "Hasil %d ** %d = %d" % (a,b,c)
 
